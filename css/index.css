@@ -1,0 +1,236 @@
+.header {
+    width: 100vw;
+    height: 122px;
+    box-shadow: 0 0 .5em #0004;
+}
+
+.header>.logotipo {
+    padding: 0 0 0 10px;
+}
+
+.header>.navbar {
+    width: 550px;
+}
+
+.navbar>a {
+    height: 34px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #777777;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+main {
+    width: 100vw;
+}
+
+.banner {
+    width: 100vw;
+    height: 235px;
+    background-color: #dcbb99;
+}
+
+.photos1 {
+    width: 100vw;
+    height: 1050px;
+}
+
+.photos1Title {
+    height: 15vh;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 82px;
+    text-align: right;
+    letter-spacing: 0em;
+    color: #000000;
+}
+
+.photos1Central {
+    width: 100vw;
+    height: 80vh;
+}
+
+.promotion {
+    width: 100vw;
+    height: 662px;
+    background: #C2185B;
+}
+
+.promotion>.titlePromotion {
+    width: 188px;
+    height: 150px;
+}
+
+.promotion>.titlePromotion>p {
+    font-family: Open Sans;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.promotion>.cards {
+    width: 1094px;
+    height: 500px;
+}
+
+.promotion>.cards>.card {
+    width: 260px;
+    height: 388px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.promotion>.cards>.card>img {
+    width: 260px;
+    height: 300px;
+}
+
+.promotion>.cards>.card>.cards_title {
+    width: 260px;
+    height: 88px;
+}
+
+.promotion>.cards>.card>.cards_title>h5 {
+    width: 226px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.promotion>.cards>.card>.cards_title>h6 {
+    width: 226px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.photos2 {
+    width: 100vw;
+    height: 1200px;
+}
+
+.photos2>.photos2Left {
+    height: 939px;
+}
+
+.photos2LeftUp {
+    height: 200px;
+}
+
+.photos2Left>.photos2LeftUp>button {
+    width: 403px;
+    height: 99px;
+    background: #C2185B;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39px;
+    line-height: 53px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.photos2Left>.photos2LeftUp>h2 {
+    width: 585px;
+    height: 144px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.photos2Left>.photos2LeftDown {
+    width: 513px;
+    height: 663px;
+}
+
+.photos2>.photos2Right {
+    height: 939px;
+}
+
+footer {
+    background: #C2185B;
+    width: 100vw;
+    height: 248px;
+}
+
+h2 {
+    font-family: Open Sans;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.ftrLeft {
+    width: 25vw;
+    height: 220px;
+}
+
+.ftrRight {
+    width: 30vw;
+}
+
+.ftrLogo {
+    width: 233px;
+    height: 123px;
+}
+
+footer>div>p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    width: 255px;
+    height: 91px;
+}
+
+.listCategories>#title>a,
+.listInstitutional>#title>a {
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.listCategories>li>a,
+.listInstitutional>li>a {
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
